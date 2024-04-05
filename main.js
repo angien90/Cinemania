@@ -1,0 +1,1 @@
+alert("Du kommer nu stiga in i Cinimanias fantastiska värld. Förbered dig på att bli Amazed!")
